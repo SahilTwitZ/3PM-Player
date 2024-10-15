@@ -1,4 +1,3 @@
-```markdown
 # 3PM Music Player
 
 A responsive web music player built with HTML, CSS, and JavaScript. The project features a sleek design and a user-friendly interface, making it easy to play and manage your music library.
@@ -85,6 +84,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please reach out to:
 
-- **Your Name** - [your-email@example.com](mailto:sahil321nis@gmail.com)
+- **Your Name** - [sahil321nis@gmail.com](mailto:sahil321nis@gmail.com)
 - [Your GitHub Profile](https://github.com/SahilTwitZ)
 ```
