@@ -15,6 +15,15 @@ A responsive web music player built with HTML, CSS, and JavaScript. The project 
 
 ![Screenshot of the Music Player](./preview.png)
 
+## Usage
+
+You can view the live demo of the music player at [3PM Music Player Live Demo](https://3pm-player.netlify.app/).
+
+- Use the music player controls for playback, volume adjustment, and track seeking.
+- Click on the hamburger menu to access navigation options on smaller screens.
+- Manage your music library through the playlist section.
+
+
 ## Technologies Used
 
 - **HTML5**
