@@ -80,5 +80,5 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
 
 For any inquiries or feedback, please reach out to:
 
-- **MD Shahil** - [sahil321nis@gmail.com](mailto:sahil321nis@gmail.com)
+- **Md Shahil** - [sahil321nis@gmail.com](mailto:sahil321nis@gmail.com)
 - [Your GitHub Profile](https://github.com/SahilTwitZ)
