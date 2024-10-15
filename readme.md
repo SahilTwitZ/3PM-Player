@@ -13,7 +13,7 @@ A responsive web music player built with HTML, CSS, and JavaScript. The project 
 
 ## Screenshots
 
-![Screenshot of the Music Player](./preview.pngpng)
+![Screenshot of the Music Player](./preview.png)
 
 ## Technologies Used
 
