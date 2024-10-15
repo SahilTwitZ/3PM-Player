@@ -71,10 +71,6 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
    ```
 5. **Open a Pull Request**.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Inspiration and design from various music player templates.
@@ -84,6 +80,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please reach out to:
 
-- **Your Name** - [sahil321nis@gmail.com](mailto:sahil321nis@gmail.com)
+- **MD Shahil** - [sahil321nis@gmail.com](mailto:sahil321nis@gmail.com)
 - [Your GitHub Profile](https://github.com/SahilTwitZ)
 ```
